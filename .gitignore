@@ -2,3 +2,8 @@
 .env
 *.optimized.wasm
 .stellar/
+
+# Test snapshots
+*.snap
+*.snapshot
+snapshots/
